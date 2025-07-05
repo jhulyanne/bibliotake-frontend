@@ -9,7 +9,7 @@ export default function LoanCard({ loan }: { loan: Loan }) {
     : 'Não devolvido';
 
   return (
-    <div className="bg-white p-4 rounded-lg shadow-md border border-gray-200">
+    <div className="bg-white p-4 rounded-lg shadow-md border border-gray-200 hover:bg-gray-100 transition-colors duration-200">
       <h3 className="font-bold">CPF do usuário: {loan.user_cpf}</h3>
       <p className="text-gray-600">Livro ID: {loan.book_id}</p>
       <p className="text-sm">Data do empréstimo: {loanDate}</p>
