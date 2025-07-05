@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "BiblioTake",
   description: "Sistema de empréstimos de livros para ONGs e bibliotecas comunitárias",
+  icons: {
+    icon: 'favicon/favicon.svg',
+  },
 };
 
 export default function RootLayout({
