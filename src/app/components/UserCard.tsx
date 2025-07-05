@@ -11,5 +11,3 @@ export default function UserCard({ user }: { user: User }) {
     </div>
   );
 }
-
-// se usuer.cpf === loan.user_cpf --> "Usuário com empréstimo ativo"
