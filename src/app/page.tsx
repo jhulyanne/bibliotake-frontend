@@ -28,7 +28,7 @@ export default async function Home() {
       </section>
 
       <section id="books" className="py-12 container mx-auto px-4">
-        <h2 className="text-2xl font-bold mb-6">Livros Disponíveis</h2>
+        <h2 className="text-2xl font-bold mb-6">Todos os Livros</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {books.map((book) => (
             <BookCard key={book.id} book={book} />
