@@ -8,18 +8,18 @@
 
 ---
 
+### ❗❗ Links úteis
+- [API consumida](github.com/jhulyanne/bibliotake-api)
+- [Deploy](bibliotake.vercel.app)
+- [Apresentação do projeto]()
+
+---
+
 ### 🚀 Tecnologias 
   ![Next.js](https://img.shields.io/badge/Next.js-13.5.6-black?logo=next.js)  
   ![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)  
   ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue?logo=typescript)  
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-06B6D4?logo=tailwind-css)  
-
----
-
-### ❗❗ Links úteis
-- [API consumida](github.com/jhulyanne/bibliotake-api)
-- [Deploy](bibliotake.vercel.app)
-- [Apresentação do projeto]()
 
 ---
 
