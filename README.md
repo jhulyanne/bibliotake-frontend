@@ -51,6 +51,4 @@
 ### 📸 Screenshots (Adicione imagens reais)  
 | Seção Livros | Seção Empréstimos | Seção Usuários |  
 |--------------|-------------------|----------------|
-| ![Books](public/images/books-section.png) 
-| ![Loans](public/images/loans-section.png) 
-| ![Users](public/images/users-section.png)
+| ![Books](public/images/books-section.png) | ![Loans](public/images/loans-section.png) | ![Users](public/images/users-section.png)
