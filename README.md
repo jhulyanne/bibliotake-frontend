@@ -1,5 +1,4 @@
 # 📚 BiblioTake 
-`nextjs` `biblioteca-comunitaria` `typescript` `front-end`
 
 **Sistema de gestão de empréstimos de livros para bibliotecas comunitárias e ONGs**  
 
@@ -18,7 +17,7 @@
 ---
 
 ### ❗❗ Links úteis
-- [Bibliotake API](github.com/jhulyanne/bibliotake-api)
+- [API consumida](github.com/jhulyanne/bibliotake-api)
 - [Deploy](bibliotake.vercel.app)
 - [Apresentação do projeto]()
 
@@ -47,8 +46,7 @@
    ```  
 ---
 
-### Seções 
-### 📸 Screenshots (Adicione imagens reais)  
+### 📸 Seções 
 | Seção Livros | Seção Empréstimos | Seção Usuários |  
 |--------------|-------------------|----------------|
 | ![Books](public/images/books-section.png) | ![Loans](public/images/loans-section.png) | ![Users](public/images/users-section.png)
