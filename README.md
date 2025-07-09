@@ -3,15 +3,15 @@
 **Sistema de gestão de empréstimos de livros para bibliotecas comunitárias e ONGs**  
 
 <div align="center">
-  <img src="public/images/starting-point.png" alt="Screenshot da Landing Page" width="500">
+  <img src="public/images/starting-point.png" alt="Screenshot da Landing Page" heght="500">
+  <img src="public/images/starting-point-mobile.png" height="400">
 </div>  
 
 ---
 
 ### ❗❗ Links úteis
 - [API consumida](github.com/jhulyanne/bibliotake-api)
-- [Deploy](bibliotake.vercel.app)
-- [Apresentação do projeto]()
+- [Apresentação do projeto](https://www.linkedin.com/posts/jhulyanne-oliveira_reactjs-nextjs-tailwindcss-activity-7348763525617483776-o6mO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXPIEMBml4eW1D2-FIc7c0VnD82EsX6-i8)
 
 ---
 
@@ -47,6 +47,7 @@
 ---
 
 ### 📸 Seções 
-| Seção Livros | Seção Empréstimos | Seção Usuários |  
-|--------------|-------------------|----------------|
-| ![Books](public/images/books-section.png) | ![Loans](public/images/loans-section.png) | ![Users](public/images/users-section.png)
+| Versão | Seção Livros | Seção Empréstimos | Seção Usuários |  
+|--------|--------------|-------------------|----------------|
+| Desktop | ![Books](public/images/books-section-desktop.png) | ![Loans](public/images/loans-section-desktop.png) | ![Users](public/images/users-section-desktop.png)|
+| Mobile | ![Books](public/images/books-section-mobile.png) | ![Loans](public/images/loans-section-mobile.png) | ![Users](public/images/users-section-mobile.png) |
