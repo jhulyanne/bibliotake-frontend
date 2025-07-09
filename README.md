@@ -45,7 +45,6 @@
 ---
 
 ### 📸 Seções 
-| Versão | Seção Livros | Seção Empréstimos | Seção Usuários |  
+| Seção Livros | Seção Empréstimos | Seção Usuários |  
 |--------|--------------|-------------------|----------------|
-| Desktop | ![Books](public/images/books-section-desktop.png) | ![Loans](public/images/loans-section-desktop.png) | ![Users](public/images/users-section-desktop.png)|
-| Mobile | ![Books](public/images/books-section-mobile.png) | ![Loans](public/images/loans-section-mobile.png) | ![Users](public/images/users-section-mobile.png) |
+| ![Books](public/images/books-section-desktop.png) | ![Loans](public/images/loans-section-desktop.png) | ![Users](public/images/users-section-desktop.png)|
