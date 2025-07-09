@@ -7,6 +7,17 @@
 
 ---
 
+## O Que é o BiblioTake?
+O BiblioTake é uma solução digital para gestão de bibliotecas comunitárias e ONGs, substituindo sistemas manuais (como planilhas) por uma plataforma acessível que:
+- Organiza acervos de livros
+- Controla empréstimos
+- Gerencia usuários
+
+## Público-Alvo
+- Bibliotecas comunitárias
+- ONGs com acervos literários
+- Projetos sociais de incentivo à leitura
+
 ### ❗❗ Links úteis
 - [API consumida](github.com/jhulyanne/bibliotake-api)
 - [Apresentação do projeto](https://www.linkedin.com/posts/jhulyanne-oliveira_reactjs-nextjs-tailwindcss-activity-7348763525617483776-o6mO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXPIEMBml4eW1D2-FIc7c0VnD82EsX6-i8)
