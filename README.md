@@ -18,13 +18,13 @@ O BiblioTake é uma solução digital para gestão de bibliotecas comunitárias 
 - ONGs com acervos literários
 - Projetos sociais de incentivo à leitura
 
-### ❗❗ Links úteis
+## ❗❗ Links úteis
 - [API consumida](github.com/jhulyanne/bibliotake-api)
 - [Apresentação do projeto](https://www.linkedin.com/posts/jhulyanne-oliveira_reactjs-nextjs-tailwindcss-activity-7348763525617483776-o6mO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXPIEMBml4eW1D2-FIc7c0VnD82EsX6-i8)
 
 ---
 
-### 🚀 Tecnologias 
+## 🚀 Tecnologias 
   ![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?logo=next.js)  
   ![React](https://img.shields.io/badge/React-19.0.0-blue?logo=react)  
   ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript)  
@@ -32,7 +32,7 @@ O BiblioTake é uma solução digital para gestão de bibliotecas comunitárias 
 
 ---
 
-### 🛠 Como executar  
+## 🛠 Como executar  
 1. **Clone o repositório:**  
    ```bash  
    git clone https://github.com/jhulyanne/bibliotake-frontend.git  
@@ -55,7 +55,7 @@ O BiblioTake é uma solução digital para gestão de bibliotecas comunitárias 
    ```  
 ---
 
-### 📸 Seções 
+## 📸 Seções 
 | Livros |
 |--------------|
 | ![Books](public/images/books-section-desktop.png) |
