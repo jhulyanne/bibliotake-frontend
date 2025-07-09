@@ -2,10 +2,8 @@
 
 **Sistema de gestão de empréstimos de livros para bibliotecas comunitárias e ONGs**  
 
-<div align="center">
-  <img src="public/images/starting-point-desktop.png" alt="Screenshot da Landing Page" heght="200">
-  <img src="public/images/starting-point-mobile.png" height="200">
-</div>  
+| ![alt text](public/images/starting-point-desktop.png) | ![alt text](public/images/starting-point-mobile.png) |
+|--------------|--------------|
 
 ---
 
