@@ -17,8 +17,7 @@ export default async function Home() {
      <Header />
     <main className="min-h-screen bg-amber-50">
       <section className="h-[85vh] flex items-center justify-center py-20 text-center bg-amber-100 text-black">
-        {/* Seção Hero (Destaque) */}
-        <section className="flex flex-col items-center py-12 gap-4 ">
+        <section className="flex flex-col items-center py-12 gap-4">
           <h1 className="text-2xl font-bold">Bem-vindo(a) à <span className="hover:text-amber-400">BiblioTake</span></h1>
           <p className="text-center max-w-md text-1xl">
             O sistema perfeito para administrar sua biblioteca comunitária.
