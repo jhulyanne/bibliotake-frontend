@@ -45,14 +45,14 @@
 ---
 
 ### 📸 Seções 
-| Seção Livros |
+| Livros |
 |--------------|
 | ![Books](public/images/books-section-desktop.png) |
 
-| Seção Empréstimos |
+| Empréstimos |
 |-------------------|
 |![Loans](public/images/loans-section-desktop.png) |
 
-| Seção Usuários |
+| Usuários |
 |----------------|
 | ![Users](public/images/users-section-desktop.png)|
