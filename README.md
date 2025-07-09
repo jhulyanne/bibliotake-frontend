@@ -45,6 +45,14 @@
 ---
 
 ### 📸 Seções 
-| Seção Livros | Seção Empréstimos | Seção Usuários |  
-|--------|--------------|-------------------|----------------|
-| ![Books](public/images/books-section-desktop.png) | ![Loans](public/images/loans-section-desktop.png) | ![Users](public/images/users-section-desktop.png)|
+| Seção Livros |
+|--------------|
+| ![Books](public/images/books-section-desktop.png) |
+
+| Seção Empréstimos |
+|-------------------|
+|![Loans](public/images/loans-section-desktop.png) |
+
+| Seção Usuários |
+|----------------|
+| ![Users](public/images/users-section-desktop.png)|
